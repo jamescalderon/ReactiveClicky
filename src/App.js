@@ -1,12 +1,10 @@
 import React, { Component } from 'react';
 import {
   Jumbotron,
-  Button,
   Alert,
   Grid,
   Row,
   Col,
-  Clearfix,
   Image,
   Badge
 } from 'react-bootstrap';
