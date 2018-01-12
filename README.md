@@ -16,6 +16,6 @@ Beware - if you choose an image twice, it will restart your score and you begin 
 </p>
 
 ### Technologies Used:
-* React.js
+* React JS
 * Bootstrap
 * Webpack
