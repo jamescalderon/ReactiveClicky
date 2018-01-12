@@ -15,5 +15,6 @@
 
 #### Technologies Used:
 * React JS
+* Node JS
 * Bootstrap
 * Webpack
