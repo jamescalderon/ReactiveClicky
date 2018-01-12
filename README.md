@@ -3,7 +3,6 @@
 <img align="right" width="120" height="178"
      title="Size Limit logo" src="public\images\ReactBadge.png">
 
-## How It Works
 Reactive Clicky is a game where you test yourself and see how many points you can get. 
 
 As your score increases, you will see the session's Top Score increate. 
