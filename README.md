@@ -15,3 +15,8 @@ Beware - if you choose an image twice, it will restart your score and you begin 
   <img src="public\images\ReactiveClicky.png" alt="Reactive Clicky example"
        width="654" height="450">
 </p>
+
+### Technologies Used:
+* React.js
+* Bootstrap
+* Webpack
