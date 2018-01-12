@@ -3,7 +3,7 @@
 <img align="right" width="120" height="178"
      title="Size Limit logo" src="public\images\ReactBadge.png">
 
-## Test yourself and see how many points you can get - avoid clicking an image twice!
+### Test yourself and see how many points you can get - avoid clicking an image twice!
 
 * **Correct Choice**: Points increase.
 * **Incorrect Choice**: Current Score resets.
@@ -13,7 +13,7 @@
        width="654" height="450">
 </p>
 
-### Technologies Used:
+#### Technologies Used:
 * React JS
 * Bootstrap
 * Webpack
