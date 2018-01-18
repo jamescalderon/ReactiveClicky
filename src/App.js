@@ -16,7 +16,7 @@ class Board extends React.Component {
     this.state = {
       squares: [
         {
-          image: "/images/abstract-q-c-150-150-1.jpg",
+          image: "/ReactiveClicky/images/abstract-q-c-150-150-1.jpg",
           clicked: false
         },
         {
